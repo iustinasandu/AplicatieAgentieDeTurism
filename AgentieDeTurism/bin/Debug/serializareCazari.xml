@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfCazare xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cazare>
+    <numeHotel>asa</numeHotel>
+    <tipCamera>Single</tipCamera>
+    <tipPensiune>Mic_dejun</tipPensiune>
+    <checkIn>2021-05-11T18:25:46</checkIn>
+    <checkOut>2021-05-13T18:25:46</checkOut>
+    <nrPersoane>2</nrPersoane>
+    <tarif>100</tarif>
+  </Cazare>
+</ArrayOfCazare>

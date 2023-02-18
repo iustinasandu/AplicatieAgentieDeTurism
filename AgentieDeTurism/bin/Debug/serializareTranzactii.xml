@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfTranzactie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tranzactie>
+    <idTranzactie>1</idTranzactie>
+    <nrFactura>1</nrFactura>
+    <numeClient>ana</numeClient>
+    <prenumeClient>maria</prenumeClient>
+    <pret>100</pret>
+  </Tranzactie>
+  <Tranzactie>
+    <idTranzactie>1</idTranzactie>
+    <nrFactura>1</nrFactura>
+    <numeClient>pop</numeClient>
+    <prenumeClient>jeni</prenumeClient>
+    <pret>200</pret>
+  </Tranzactie>
+</ArrayOfTranzactie>

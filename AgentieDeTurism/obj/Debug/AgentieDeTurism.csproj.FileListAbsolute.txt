@@ -1,0 +1,37 @@
+D:\facult\PAW\AgentieDeTurism\AgentieDeTurism\bin\Debug\AgentieDeTurism.exe.config
+D:\facult\PAW\AgentieDeTurism\AgentieDeTurism\bin\Debug\AgentieDeTurism.exe
+D:\facult\PAW\AgentieDeTurism\AgentieDeTurism\bin\Debug\AgentieDeTurism.pdb
+D:\facult\PAW\AgentieDeTurism\AgentieDeTurism\bin\Debug\MaterialSkin.dll
+D:\facult\PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.csprojAssemblyReference.cache
+D:\facult\PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.frmAgentie.resources
+D:\facult\PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.Properties.Resources.resources
+D:\facult\PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.csproj.GenerateResource.cache
+D:\facult\PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.csproj.CoreCompileInputs.cache
+D:\facult\PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.csproj.CopyComplete
+D:\facult\PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.exe
+D:\facult\PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.pdb
+D:\facult\PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.frmTuristi.resources
+D:\facult\PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.frmCazari.resources
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\bin\Debug\AgentieDeTurism.exe.config
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\bin\Debug\AgentieDeTurism.exe
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\bin\Debug\AgentieDeTurism.pdb
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\bin\Debug\MaterialSkin.dll
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.frmAgentie.resources
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.frmCazari.resources
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.Properties.Resources.resources
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.frmTuristi.resources
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.csproj.GenerateResource.cache
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.csproj.CoreCompileInputs.cache
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.csproj.CopyComplete
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.exe
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.pdb
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.frmBileteAvion.resources
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.frmTranzactii.resources
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.EditareTurist.resources
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.EditareCazare.resources
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.EditareTranzactie.resources
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.EditareBiletAvioncs.resources
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\bin\Debug\System.Data.SQLite.dll
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\bin\Debug\System.Data.SQLite.xml
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\obj\Debug\AgentieDeTurism.csprojAssemblyReference.cache
+D:\facult\PAW\Proiect PAW\AgentieDeTurism\AgentieDeTurism\bin\Debug\BazaDeDate.db
